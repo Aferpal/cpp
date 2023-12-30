@@ -1,0 +1,8 @@
+#include<iostream>
+
+int main(){
+	int a=25;
+	int b=24;
+	std::cout<<(a+b)<<'\n';
+	return 0;
+}
