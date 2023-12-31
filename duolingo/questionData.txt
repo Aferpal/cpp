@@ -1,0 +1,4 @@
+question,op1,op2,op3,res
+How do you say strong in German?,leute,stark,Erwaschene,2
+What port is currently used for https?,443,80,404,1
+What does it mean "Sehr" in German?,loud,sir,very,3
